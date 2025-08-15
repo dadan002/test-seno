@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test-seno/static/css/main.b8bbf21d.css",
+    "main.js": "/test-seno/static/js/main.4a42e137.js",
+    "static/js/453.8b306300.chunk.js": "/test-seno/static/js/453.8b306300.chunk.js",
+    "static/media/plage.jpg": "/test-seno/static/media/plage.ce28c711a9a944e42de9.jpg",
+    "static/media/logo(blanc).png": "/test-seno/static/media/logo(blanc).2faeb6a6b4aa38c2a6cc.png",
+    "static/media/pub3.webp": "/test-seno/static/media/pub3.65965eb8d4a2d3083227.webp",
+    "static/media/pub2.webp": "/test-seno/static/media/pub2.698d193caa88980786e8.webp",
+    "static/media/pub1.webp": "/test-seno/static/media/pub1.21603c59028136686b62.webp",
+    "static/media/pub4.webp": "/test-seno/static/media/pub4.2be89f481cff6565789a.webp",
+    "index.html": "/test-seno/index.html",
+    "main.b8bbf21d.css.map": "/test-seno/static/css/main.b8bbf21d.css.map",
+    "main.4a42e137.js.map": "/test-seno/static/js/main.4a42e137.js.map",
+    "453.8b306300.chunk.js.map": "/test-seno/static/js/453.8b306300.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8bbf21d.css",
+    "static/js/main.4a42e137.js"
+  ]
+}
